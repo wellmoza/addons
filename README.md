@@ -1,0 +1,2 @@
+# addons
+Addons para Kodi
